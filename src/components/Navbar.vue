@@ -1,10 +1,8 @@
 <template>
-  <div class="about">
-    
-  </div>
+    <H1>This is my navbar</H1>
 </template>
 <script>
 export default {
-  
+    
 }
 </script>
